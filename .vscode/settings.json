@@ -3,6 +3,9 @@
         "kernel.h": "c",
         "blk.h": "c",
         "sched.h": "c",
-        "tty.h": "c"
+        "tty.h": "c",
+        "head.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
     }
 }
