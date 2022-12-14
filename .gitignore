@@ -1,3 +1,8 @@
+!./boot/head.s
+!./kernel/asm.s
+!./kernel/chr_drv/rs_io.s
+!./kernel/sys_call.s
+!./mm/page.s
 *.o
 *.a
 *.s
@@ -14,4 +19,3 @@ core.27154
 Makefile.header
 hdc-0.11.img
 root
-!head.s
