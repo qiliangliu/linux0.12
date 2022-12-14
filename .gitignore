@@ -1,1 +1,3 @@
 *.o
+!compile_commands.json
+boot/bootsect.o
